@@ -75,7 +75,6 @@ export function Home() {
         style: "cancel",
       },
     ]);
-    console.log(`removed ${name}`);
   }
 
   return (
